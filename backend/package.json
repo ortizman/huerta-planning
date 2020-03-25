@@ -1,0 +1,23 @@
+{
+  "name": "huerta-backend",
+  "version": "1.0.0",
+  "description": "API Rest del producto huerta planing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ortizman/huerta-planning.git"
+  },
+  "keywords": [
+    "huerta",
+    "backend"
+  ],
+  "author": "manuel ortiz <ortizman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ortizman/huerta-planning/issues"
+  },
+  "homepage": "https://github.com/ortizman/huerta-planning#readme"
+}
